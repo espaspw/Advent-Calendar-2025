@@ -1,0 +1,3 @@
+**/*.Identifier
+build/
+node_modules/
