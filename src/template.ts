@@ -52,7 +52,7 @@ export default (handlebars: typeof Handlebars) => {
       <meta content="EJLX Advent Calendar 2025" property="og:title" />
       <meta content="Archive Site for Advent Calendar Entries for 2025!" property="og:description" />
       <meta content="https://ejlx-discord.github.io/Advent-Calendar-2025/" property="og:url" />
-      <meta content="https://ejlx-discord.github.io/Advent-Calendar-2024/emojis/1312553682193092608.png" property="og:image" />
+      <meta content="https://ejlx-discord.github.io/Advent-Calendar-2025/emojis/640160185779748864.png" property="og:image" />
       <meta content="#43B581" data-react-helmet="true" name="theme-color" />
     </head>`
   )
