@@ -1,5 +1,5 @@
-# EJLX Advent Calendar 2024
+# EJLX Advent Calendar 2025
 
-Archive page for the 8th annual Advent Calendar event for the EJLX discord server.
+Archive page for the 9th annual Advent Calendar event for the EJLX discord server.
 
-Build system design is a modification of last year's design.
+The page template is the same as last year.
